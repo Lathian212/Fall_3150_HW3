@@ -1,0 +1,12 @@
+8 col, 8 rows, 0 to 7
+
+Queens move diagonal, and straight lines
+
+Place eight queens so none are threatening each other.
+
+N Queens problem, 15 Queens, 15 col and 15 rows, so none threatening each other
+
+Display the board with ASCI art, vertical lines, pluses for corners
+
+Solve N Queens problem, over 22 computer go on for ever.
+
